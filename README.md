@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub stats](https://github-readme-stats-yuuzi261s-projects.vercel.app/api?username=FuseFairy&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats-yuuzi261s-projects.vercel.app/api?username=FuseFairy&show_icons=true&theme=tokyonight&include_all_commits=true)
