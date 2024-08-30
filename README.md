@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="https://zhuang-github-readme-stats.vercel.app/api?username=FuseFairy&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+  <img height=200 src="https://zhuang-github-readme-stats.vercel.app/api?username=FuseFairy&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=FuseFairy&layout=compact&langs_count=4&theme=tokyonight&hide_border=true" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FuseFairy&theme=tokyo-night&hide_border=true&radius=4.5" />
 </p>
