@@ -1,6 +1,6 @@
 <p align="center">
-  <img width=400 src="https://zhuang-github-readme-stats.vercel.app/api?username=FuseFairy&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" />
-  <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+  <img width=400 height=200 src="https://zhuang-github-readme-stats.vercel.app/api?username=FuseFairy&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" />
+  <img width=400 height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 </p>
 
 ![FuseFairy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FuseFairy&theme=tokyo-night&hide_border=true&radius=4.5)
