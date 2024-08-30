@@ -1,9 +1,9 @@
 <p align="center">
-  <img width=400 src="https://zhuang-github-readme-stats.vercel.app/api?username=FuseFairy&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&line_height=27&card_width=400" />
-  <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs?username=FuseFairy&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&card_width=400" />
+  <img width=400 src="https://zhuang-github-readme-stats.vercel.app/api?username=FuseFairy&show_icons=true&theme=tokyonight&bg_color=00000000&include_all_commits=true&hide_border=true&line_height=27&card_width=400" />
+  <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs?username=FuseFairy&layout=compact&langs_count=8&theme=tokyonight&bg_color=00000000&&hide_border=true&card_width=400" />
 </p>
 <p align="center">
-  <img width=800 src="https://github-readme-activity-graph.vercel.app/graph?username=FuseFairy&theme=tokyo-night&hide_border=true&radius=4.5" />
+  <img width=800 src="https://github-readme-activity-graph.vercel.app/graph?username=FuseFairy&theme=tokyo-night&bg_color=00000000&hide_border=true&radius=4.5" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
