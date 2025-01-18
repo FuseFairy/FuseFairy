@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img width=800 src="https://github-repo-traffic-stats.vercel.app/api?username=FuseFairy&theme=tokyo-night&bg_color=11000000" />
+  <img width=800 src="https://github-repo-traffic-stats.vercel.app/api?username=FuseFairy&theme=tokyo-night&bg_color=12000000" />
 </p>
 
 <p align="center">
