@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img width=800 src="https://github-profile-repo-analytics.vercel.app/api?username=FuseFairy&theme=tokyo-night&bg_color=73400000" />
+  <img width=800 src="https://github-profile-repo-analytics.vercel.app/api?username=FuseFairy&theme=tokyo-night&bg_color=76400000" />
 </p>
 
 <p align="center">
