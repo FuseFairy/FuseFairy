@@ -8,10 +8,9 @@
 </p>
 
 <p align="center">
-  <img width=800 src="https://github-readme-activity-graph.vercel.app/graph?username=FuseFairy&theme=tokyo-night&bg_color=00000000&hide_border=true&radius=4.5" />
+  <img width=800 src="https://github-profile-repo-analytics.vercel.app/api?username=FuseFairy&theme=tokyo-night&bg_color=76538000" />
 </p>
 
-
 <p align="center">
-  <img width=800 src="https://github-profile-repo-analytics.vercel.app/api?username=FuseFairy&theme=tokyo-night&bg_color=76538000" />
+  <img width=800 src="https://github-readme-activity-graph.vercel.app/graph?username=FuseFairy&theme=tokyo-night&bg_color=00000000&hide_border=true&radius=4.5" />
 </p>
