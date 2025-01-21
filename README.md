@@ -7,15 +7,16 @@
   <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs?username=FuseFairy&layout=compact&langs_count=8&theme=tokyonight&bg_color=00000000&&hide_border=true&card_width=400&exclude_repo=github-readme-stats,AICUP_BoT-SORT-TEAM_5041,AICup_MCMOT_Baseline_Colab,FuseFairy.github.io,Tweetcord" />
 </p>
 
+
+<p align="center">
+  <img width=800 src="https://test-xi-lyart-94.vercel.app/api?username=FuseFairy&theme=tokyo-night&bg_color=76538000" />
+</p>
+
+
 <p align="center">
   <img width=800 src="https://github-profile-repo-analytics.vercel.app/api?username=FuseFairy&theme=tokyo-night&bg_color=76538000" />
 </p>
 
 <p align="center">
   <img width=800 src="https://github-readme-activity-graph.vercel.app/graph?username=FuseFairy&theme=tokyo-night&bg_color=00000000&hide_border=true&radius=4.5" />
-</p>
-
-
-<p align="center">
-  <img width=800 src="https://test-xi-lyart-94.vercel.app/api?username=FuseFairy&theme=tokyo-night&bg_color=76538000" />
 </p>
