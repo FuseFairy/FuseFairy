@@ -7,9 +7,9 @@
   <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs?username=FuseFairy&layout=compact&langs_count=8&theme=tokyonight&bg_color=00000000&&hide_border=true&card_width=400&exclude_repo=github-readme-stats,AICUP_BoT-SORT-TEAM_5041,AICup_MCMOT_Baseline_Colab,FuseFairy.github.io,Tweetcord" />
 </p>
 
-<div align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/FuseFairy/github-profile-repo-analytics/output/generated/traffic_chart.svg" alt="Repos traffic stats" />
-</div>
+</p>
 
 <p align="center">
   <img width=800 src="https://github-readme-activity-graph.vercel.app/graph?username=FuseFairy&theme=tokyo-night&bg_color=00000000&hide_border=true&radius=4.5" />
